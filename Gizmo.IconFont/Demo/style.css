@@ -169,3 +169,9 @@
 .icon-Right:before {
   content: "\e92f";
 }
+.icon-UserGroup:before {
+  content: "\e930";
+}
+.icon-Users:before {
+  content: "\e931";
+}
