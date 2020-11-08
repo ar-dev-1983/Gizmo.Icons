@@ -3,6 +3,10 @@ Icons for Gizmo projects.
 
 I used great https://icomoon.io/, https://onlinefontconverter.com/ and https://inkscape.org/ to create icons, fonts, and demo.
 
+# Available Fonts
+
+[Gizmo.IconFont.eot](https://github.com/ar-dev-1983/Gizmo.Icons/blob/master/Gizmo.IconFont/Gizmo.IconFont.eot)
+
 # Available Icons
 
 Icon Name | CODE | Image
