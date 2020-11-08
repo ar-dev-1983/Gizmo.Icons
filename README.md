@@ -6,7 +6,9 @@ I used great https://icomoon.io/, https://onlinefontconverter.com/ and https://i
 # Available Fonts
 
 [Gizmo.IconFont.eot](https://github.com/ar-dev-1983/Gizmo.Icons/blob/master/Gizmo.IconFont/Gizmo.IconFont.eot)
+
 [Gizmo.IconFont.ttf](https://github.com/ar-dev-1983/Gizmo.Icons/blob/master/Gizmo.IconFont/Gizmo.IconFont.ttf)
+
 [Gizmo.IconFont.woff](https://github.com/ar-dev-1983/Gizmo.Icons/blob/master/Gizmo.IconFont/Gizmo.IconFont.woff)
 
 # SVG File
