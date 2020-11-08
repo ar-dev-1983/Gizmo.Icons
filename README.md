@@ -7,7 +7,7 @@ I used great https://icomoon.io/, https://onlinefontconverter.com/ and https://i
 
 Icon Name | CODE | Image
 ------------ | ------------- | -------------
-NewFile | e900 | ![NewFile](/PNG/32 px/NewFile.png)
+NewFile | e900 | ![NewFile](/PNG/32%20px/NewFile.png)
 OpenFile | e901 | ![OpenFile](/PNG/32 px/OpenFile.png)
 SaveFile | e902 | ![SaveFile](/PNG/32 px/SaveFile.png)
 SaveAsFile | e903 | ![SaveAsFile](/PNG/32 px/SaveAsFile.png)
