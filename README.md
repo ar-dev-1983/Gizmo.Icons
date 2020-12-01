@@ -1,7 +1,7 @@
 # Gizmo.Icons
 Icons for Gizmo projects.
 
-I used great https://icomoon.io/ | ![Reports](/PNG/32%20px/Reports.png) https://onlinefontconverter.com/ and https://inkscape.org/ to create icons | ![Reports](/PNG/32%20px/Reports.png) fonts | ![Reports](/PNG/32%20px/Reports.png) and demo.
+I used great https://icomoon.io/ , https://onlinefontconverter.com/ and https://inkscape.org/ to create icons and fonts.
 
 ### Available Fonts
 
